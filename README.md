@@ -188,6 +188,6 @@ SOFTWARE.
 
 ## Authors
 
-The above program is a creation of Spyros Kokotos - inf2021098@ionio.gr & Christos Karydis - inf2022076@ionio.gr, and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
+The above program is a creation of Christos Karydis - inf2022076@ionio.gr & Spyros Kokotos - inf2021098@ionio.gr, and you can use it for your personal projects or further develop it as long as you always give credit to the creators.
 
 
