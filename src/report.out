@@ -1,0 +1,8 @@
+Time taken: 1.369857 seconds | Speed: 73730323.676121 bytes per second | Buffer size: 0 | File size: 101000000 bytes 
+Time taken: 0.527972 seconds | Speed: 191298023.380028 bytes per second | Buffer size: 128 | File size: 101000000 bytes 
+Time taken: 0.552934 seconds | Speed: 182661945.186948 bytes per second | Buffer size: 256 | File size: 101000000 bytes 
+Time taken: 0.428270 seconds | Speed: 235832535.550003 bytes per second | Buffer size: 512 | File size: 101000000 bytes 
+Time taken: 0.406395 seconds | Speed: 248526679.708166 bytes per second | Buffer size: 1024 | File size: 101000000 bytes 
+Time taken: 0.423148 seconds | Speed: 238687173.282161 bytes per second | Buffer size: 2048 | File size: 101000000 bytes 
+Time taken: 0.360090 seconds | Speed: 280485434.197006 bytes per second | Buffer size: 4096 | File size: 101000000 bytes 
+Time taken: 0.344357 seconds | Speed: 293300266.874203 bytes per second | Buffer size: 8192 | File size: 101000000 bytes 
